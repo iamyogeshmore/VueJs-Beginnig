@@ -1,5 +1,5 @@
-# VueJs-Beginnig
-
+# VueJs-Beginnig 
+ <br />  <br />
 Steps for creating new project : <br />
 1.vue create (Project Name) OR npm init vite-app (Project Name) <br />
 2.cd (Project Name) <br />
